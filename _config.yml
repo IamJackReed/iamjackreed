@@ -3,5 +3,5 @@ title: True Agile |
 description: Scrum Links
 keywords: Modern, Blogging, Fun
 # author:
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "https://iamjackreed.github.io" # the subpath of your site, e.g. /blog/
+url: "/mod" # the base hostname & protocol for your site
