@@ -1,6 +1,6 @@
 # Site settings
-title: True Agile | Scrum Links
-description: Scrum Links
+title: Scrum Links
+description: Advice and answers from the Scrum Links Team
 # keywords:
 # author:
 baseurl: "https://iamjackreed.github.io" # the subpath of your site, e.g. /blog/
