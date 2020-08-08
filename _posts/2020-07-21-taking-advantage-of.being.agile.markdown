@@ -3,7 +3,7 @@ title:  "Taking Advantage of Being Agile"
 subtitle: "Looking into what makes great software"
 author: "Jack Reed"
 avatar: "img/authors/wferr.png"
-image: "img/2017-07-21-taking-advantage-of-being-agile/taking-advantage-of-being-agile.jpeg"
+image: "img/a.jpeg"
 date:   2017-07-21 12:12:12
 ---
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">There are many contributing factors that need to go into to building great software, having reliable processes in place that support a consistent development pace is a good place to start. Working environments that encourage teams to improve their ways of working to get better results, can really help introduce consistency, and quality into the codebase. Seeing successful results from this sort of thing can be both positive and aesthetically pleasing. However, there is another important contributing factor that goes into to building great software, and that is '_The ability to be able to recognise opportunities when they arise, and being agile enough to take advantage of them_'.</span>
