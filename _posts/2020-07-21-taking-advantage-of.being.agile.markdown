@@ -6,7 +6,7 @@ avatar: "img/author.png"
 image: "img/a.jpg"
 date:   2017-07-21 12:12:12
 ---
-There are many contributing factors that need to go into to building great software, having reliable processes in place that support a consistent development pace is a good place to start. Working environments that encourage teams to improve their ways of working to get better results, can really help introduce consistency, and quality into the codebase. Seeing successful results from this sort of thing can be both positive and aesthetically pleasing. However, there is another important contributing factor that goes into to building great software, and that is '_The ability to be able to recognise opportunities when they arise, and being agile enough to take advantage of them_'.
+There are many contributing factors that need to go into to building great software, having reliable processes in place that support a consistent development pace is a good place to start. Working environments that encourage teams to improve their ways of working to get better results, can really help introduce quality and consistency into the products codebase. Seeing successful results from this sort of thing can be both positive and aesthetically pleasing. However, there is another important contributing factor that goes into to building great software, and that is '_The ability to be able to recognise opportunities when they arise, and being agile enough to take advantage of them_'.
 
 ###  Initial Investment of Time
 The initial investment of time, cost  and resources should be applied properly. Start by reviewing the requirements, then establish what the maximum amount of customer value that can be delivered using the minimum amount of work effort. This will produce quantifiable value immediately and will provide some early validation. The quickest way to do this is, ask the business to value their requirements relative to each other, then allow the team to estimate those items. After doing this, it will help with getting the bigger picture and understanding more about the scope from both; technical and business perspectives. Keep in mind that when the team do their estimations, avoid using absolute estimation (more on this topic in a separate article).
@@ -29,7 +29,5 @@ I'd suggest trying to get those cycles between 2-3 weeks or less, as you want to
 
 ### Conclusion
 Work closely with the customers and end users to gain early feedback, use the approach of taking the small steps in delivery using vertical slices, focus on allocating resources at the start to deliver high valued items using minimum effort, and welcome change. This should all help towards reducing risk and costs - ultimately, taking advantage of being agile will increase the chances of delivering on time, and within budget. Most importantly you'll be actually building the RIGHT product or service, one that suits the needs of the customers and end users. And when that happens, working on software projects become so much more enjoyable and rewarding.
-
-
 
 Thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.
