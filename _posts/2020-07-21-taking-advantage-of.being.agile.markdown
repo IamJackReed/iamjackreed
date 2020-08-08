@@ -2,7 +2,7 @@
 title:  "Taking Advantage of Being Agile"
 subtitle: "Looking into what makes great software"
 author: "Jack Reed"
-avatar: "img/author.jpeg"
+avatar: "img/author.png"
 image: "img/a.jpg"
 date:   2017-07-21 12:12:12
 ---
