@@ -29,5 +29,3 @@ I'd suggest trying to get those cycles between 2-3 weeks or less, as you want to
 
 ### Conclusion
 Work closely with the customers and end users to gain early feedback, use the approach of taking the small steps in delivery using vertical slices, focus on allocating resources at the start to deliver high valued items using minimum effort, and welcome change. This should all help towards reducing risk and costs - ultimately, taking advantage of being agile will increase the chances of delivering on time, and within budget. Most importantly you'll be actually building the RIGHT product or service, one that suits the needs of the customers and end users. And when that happens, working on software projects become so much more enjoyable and rewarding.
-
-Thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.

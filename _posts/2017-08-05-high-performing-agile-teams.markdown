@@ -32,6 +32,3 @@ When it comes to listening to how the team are speaking with each other, I think
 
 #### Conclusion
 Being a good listener is a skill that you can learn (which I'm forever a student), but by listening respectfully it can show a level of care for the person that you're talking and interacting with, this in turn can have an effect on how much they listen to you. When listing intently it can show that you actually care about their concerns, and that you're generally interested in helping them, as a result when you provide any feedback to individuals or the team, then you'll be much more influential and be in a far better position to make a positive, sustainable difference.
-
-
-Thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.
