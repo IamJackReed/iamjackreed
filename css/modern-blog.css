@@ -17,6 +17,13 @@
  font-weight: 700;
 }
 
+.header-subtitle{
+ font-family: "Source Sans Pro", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-size: 1.2em;
+ letter-spacing: -2px;
+ font-weight: 200;
+}
+
 .header-nav{
  font-family: "Source Sans Pro", 'Helvetica Neue', Helvetica, Arial, sans-serif;
  font-size: 1.8em;
