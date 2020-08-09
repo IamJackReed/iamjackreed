@@ -1,0 +1,37 @@
+---
+title:  "High Performing Agile Teams"
+subtitle: "Looking at the Downside of Collaboration"
+author: "Jack Reed"
+avatar: "img/author.png"
+image: "img/c.jpg"
+date:   2017-08-05 00:09:00
+---
+Firstly, the journey in building a high performing agile team relies on many things, and isn't something that turns out well when it is rushed. It depends on many influencing factors, some of those being: Skills and abilities, attitudes and mindsets, good processes coupled with the right guidance etc. And there can often be outside influences that can act as opposing factors too, such as: Company culture, other areas of the business that may not be aligned with agile methods. There may also be a strong PMO, or governance in place that impacts on how agile is being adopted. This is especially noticeable if an organisation works within a regulated industry, as there may be many bureaucracy hoops that need to be jumped through in order to maintain compliance.
+
+Before going any further, I'd like to briefly explain what I'm referring to when I say '_high performing agile team_' I like the definition that [Keith Cerny's](https://kcerny.wordpress.com/2011/03/11/high-performing-agile-teams/) has used on his blog post which is: “_A high performance Agile team is a committed team that has the right people, has been effectively empowered, has established trust, adheres to an effective process, works at a sustainable pace to deliver quality software of a quantity that reflects a consistent high velocity and factors in influences like capacity and support._” Let's jump straight in, here are just some thoughts and suggestions on what can help contribute towards establishing a high performing agile team, and where I think is a good place to start, and it is based on what has worked well for me, and for the teams that I've worked with.
+
+#### Where to Start
+Whatever the opposing factors might be that are getting in your way to achieving a high performing agile team, I think the best place to start is with what you can influence, and what better place than us, the people. Agile teams require constant improvement along the way, working alongside each team member during this process is a must. Although people are notorious for being the biggest problem in most things, let alone an agile team. In fact, I'm convinced that anywhere where there are people, there will be problems! '_Let's get rid of them?_' '_wrong!_' People are essential and they're also the most valuable asset! Therefore, they need to be treated as such, be appreciated for their skills, including whatever else they're able to bring to the table as an individual, and as a team member. In order to assist and help build agile teams to reach their full potential, they'll need to be monitored and be provided with feedback in a way that works best for them, so they can see where they can improve. I think it's important to note that, the better you understand each team members level of expertise, who they are as a person, and the more you listen to their ideas on how they think they can grow and improve, then the more successful you'll be at this.
+
+#### Downside of Collaboration
+Yes, the title of this paragraph is correct! There is a strong emphasis on collaboration with agile, and for good reason as it forms an essential part of adopting agile successfully. One of main benefits is that it saves a lot of time, and provides an overall smoother process. However, it does have a downside, which is that conflicting views and options tend to flare up a lot quicker than they normally would do. This can be problematic if the communication is being done in an environment that isn't safe. Let me explain, in order to have a 'safe' environment that allows for healthy conversation (dialogue with the free flow of meaning), then it's essential that it is safe to do so. When it becomes unsafe, then you'll start seeing people show patterns of stress. These can be in the form of people raising their voice, shouting, interrupting others when they are speaking, etc. Or it can go the complete opposite side of the spectrum, whereby people start turning to silence and stop speaking all together. Conflicts between team members, or team members and other people within the organisation can really hold the team back.
+
+#### Improve Collaboration with Better Communication
+If regular conflicts is an issue, then I'd strongly suggest that you bring this awareness to the team, and/or organisation that so that a better communication strategy can be followed. I'd also start listening more, not just when being spoken to directly, but also how the team are speaking with each another, then you'll start noticing signs of stress patterns when they occur. If it does happen, then the focus should be on who is speaking, evaluate the situation, see how they're expressing themselves, and consider possible reasons as to why they're showing signs of stress. It usually comes down to the context of the conversation with at least one of the three reasons below, or a combination of the three:
+
+• High levels of emotional attachment
+
+• Strong opposing opinions
+
+• High level of risk involved
+
+Pay attention to body language too and the tones of voices being used, are they uncomfortable, relaxed, angry, upset, excited? Just remember that before making any slight interventions, it's important to get a good understanding of any differences before attempting to help get an agreeable solution. Again, focus on the person who’s speaking, and try to understand their needs and wants that are underlining what they're saying without being biased. Ask clarifying questions or paraphrase what's been said to help get a better understanding, this avoids you appearing to take sides.
+
+#### There Should be Conversations
+When it comes to listening to how the team are speaking with each other, I think there should always be some form of conversation flowing throughout the day. I feel reassured when I hear them in conversation, as it means that if/when there are problems then they're more likely to tell each other about them. One of the best examples of this is during the daily Scrum (stand up), as it forces them to speak with one another. I've lost count how many times during a daily Scrum (stand up) that key dependencies have been identified, or problems have been brought up that other team members didn't know about that should have, all because of a direct result of the team having a conversation. I mean if the team weren't speaking with each other throughout the day, then I'd be worried, and concerned as this would be a strong indication that they're not working as a team.
+
+#### Conclusion
+Being a good listener is a skill that you can learn (which I'm forever a student), but by listening respectfully it can show a level of care for the person that you're talking and interacting with, this in turn can have an effect on how much they listen to you. When listing intently it can show that you actually care about their concerns, and that you're generally interested in helping them, as a result when you provide any feedback to individuals or the team, then you'll be much more influential and be in a far better position to make a positive, sustainable difference.
+
+
+Thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.
