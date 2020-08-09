@@ -103,7 +103,6 @@
 	line-height: 1;
 	margin: 5px 0 0 0;
 	color: #2A2A2A;
-	text-shadow: 0 0 4px black;
 }
 
 .card__container--closed .card__title {
@@ -115,7 +114,6 @@
 	line-height: 1;
 	margin: 5px 0 0;
 	color: #777778;
-	text-shadow: 0 0 4px black;
 }
 
 .card__container--closed .card__subtitle {
