@@ -2,7 +2,7 @@
 title:  "Software Development"
 subtitle: "It's not just about building software"
 author: "'Jack Reed'"
-avatar: "img/authors.png"
+avatar: "img/author.png"
 image: "img/d.jpg"
 date:   2017-08-14 12:12:12
 ---
