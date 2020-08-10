@@ -1,6 +1,6 @@
 ---
 title:  "High Performing Agile Teams"
-subtitle: "Looking at the Downside of Collaboration"
+subtitle: "Looking at the downside of collaboration"
 author: "Jack Reed"
 avatar: "img/author.png"
 image: "img/c.jpg"
