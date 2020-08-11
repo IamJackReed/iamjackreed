@@ -1,6 +1,6 @@
 ---
-title:  "Retrospectives"
-subtitle: "Food for thought"
+title:  "Defining Agile Team Metrics"
+subtitle: "An important aspect of experimentation"
 author: "Jack Reed"
 avatar: "img/author.png"
 image: "img/e.jpg"
