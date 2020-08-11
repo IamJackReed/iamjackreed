@@ -62,6 +62,12 @@ Data from each of these systems, on their own can answer simple questions around
 
 <img src="/img/team-system-data-collection.png">
 
+<img src="/mod/img/team-system-data-collection.png">
+
+[iamjackreed]/[mod]/img/team-system-data-collection.png
+
+![](https://iamjackreed.github.io/mod/img/team-system-data-collection.png)
+
 #### Questions Based On Outcomes:
 - Are we making our process better?
 - Are we delivering the right things?
