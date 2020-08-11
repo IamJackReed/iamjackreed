@@ -16,10 +16,8 @@ Most, if not all projects have their good and nasty surprises throughout their l
 Change is inevitable, in fact any project, in itself is just a mechanism to introduce change in some way or another.
 One of the twelve agile manifesto principles states _'Accommodate changing requirements throughout the development process'_, I don't think that this statement is necessarily solely referring to the change requirements related to the product or service. I think it also includes the changes that get introduced that improve the way we work, this often comes from the outcome of a Sprint Retrospective (or at least it should be!), or through regularly reflecting on progress. Being able to welcome change when it occurs, helps enable the ability to be adaptable when it counts.
 
-
 ### Where the Focus Should be
 Delivering high quality value to the customers and end users should be the primary focus. It pays to actively seek feedback, and not just from stakeholders, customers and end users, but also from the team too. Getting this feedback early, and frequently will allow you, and the team to learn whilst enhancing your understanding of the problem that you're all trying to solve. Always be on the lookout to take advantage from what you can learn from feedback (improvement changes for the product or service), and from the Retrospectives (improvement changes in the way the team work), and then pivot to change your direction accordingly.
-
 
 ### Regularly Introduce Small Changes of Improvements
 I spoke about this earlier, and I'm going to do it some more! Being able to effectively deal with change will soon show overtime that it can provide opportunities with positive outcomes, and limits the amount of re-work. It also aids towards revealing new opportunities when they appear. When you are regularly introducing small changes of improvements, then this makes 'change' itself easier to implement and adopt. Prime example, when a customer or Product Owner has a requirement that changes, or hasn't been clearly defined.
