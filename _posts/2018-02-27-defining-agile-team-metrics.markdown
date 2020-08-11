@@ -27,7 +27,6 @@ _'The way in which we're constructed neurophysiologically, we don't experience a
 #### What Are Useful Metrics?
 The right choice of metrics to use depends on the team and context, so not all metrics are necessarily going to be useful- in fact, sometimes they can be dangerous. In terms of metrics at a team level, they can be used to measure anything that the team think is relevant in helping them identify improvements, as it can provide them with additional information on; their experiments, results from adjustments made in their behaviour, track their progress towards goals and can even help prepare for the future- it should really come down to what the team find out to be useful.
 
-
 _'Individuals can make a difference, but it takes a team to really mess things up.'_
 
 #### Typical Agile Metrics
@@ -42,9 +41,7 @@ It's safe to say that most of the time, when you mention the words 'Agile Metric
 - **Cycle time**
 - **Work in Progress (WIP)**
 
-
 The data from an agile team will generally come from multiple different locations depending on the context of the team and how they are working. For example, they may use a project tracking tool such as: '**JIRA**', '**Pivotal Tracker**', '**Rally'**, '**Asana**', or they might just be writing requirements on '**Post-it Notes**', then plastering the notes on a wall. One of the best things about agile practices, I think, is that teams can move quickly within their own context, and utilise what is useful for them. If a team find it beneficial to use **Post-it Notes** on a wall for their product backlog items or requirements, then great, let's get decorating. A team might even find that what they want to measure can't be done with any of their system tools that they're using, so they have to get creative, maybe some sort of mood board is required that they update manually to track their mood during a sprint?
-
 
 Generally speaking there will be a whole list of different systems that are used by a team. Here are a few examples of systems that a team might use.
 - **Project Tracking** (JIRA, Pivotal Tracker, Asana, Trello, Post-it Notes)
@@ -62,6 +59,8 @@ Generally speaking there will be a whole list of different systems that are used
 Data from each of these systems, on their own can answer simple questions around specific outputs.
 
 ![](/img/team-system-data-collection.png)
+
+<img src="/img/team-system-data-collection.png">
 
 #### Questions Based On Outcomes:
 - Are we making our process better?
