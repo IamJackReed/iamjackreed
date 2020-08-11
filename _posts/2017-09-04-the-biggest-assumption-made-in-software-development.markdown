@@ -1,6 +1,6 @@
 ---
 title:  "The Biggest Assumption Made In Software Development"
-subtitle: "Where are the requirements coming from?."
+subtitle: "Where are the requirements coming from?"
 author: "Jack Reed"
 avatar: "img/author.png"
 image: "img/f.jpg"
