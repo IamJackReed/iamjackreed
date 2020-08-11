@@ -32,6 +32,6 @@ Since software development is complex work, find the sweet spot that sits betwee
 
 Links below if you’re after more information on this subject:
 
-Sustainable Software Development: An Agile Perspective - by [Kevin Tate](https://www.amazon.co.uk/Sustainable-Software-Development-Agile-Perspective/dp/0321286081)
-Agile Development & Business Goals- [ Agile Development & Business Goals](https://www.amazon.co.uk/Agile-Development-Business-Goals-Solution/dp/0123815207)
-Productive Conversations - [Agile Manifesto](https://agilemanifesto.org/principles.html)
+- Sustainable Software Development: An Agile Perspective - by [Kevin Tate](https://www.amazon.co.uk/Sustainable-Software-Development-Agile-Perspective/dp/0321286081)
+- Agile Development & Business Goals- [ Agile Development & Business Goals](https://www.amazon.co.uk/Agile-Development-Business-Goals-Solution/dp/0123815207)
+- Productive Conversations - [Agile Manifesto](https://agilemanifesto.org/principles.html)
