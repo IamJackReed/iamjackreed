@@ -3,7 +3,7 @@ title:  "Defining Agile Team Metrics"
 subtitle: "An important aspect of experimentation"
 author: "Jack Reed"
 avatar: "img/author.png"
-image: "img/e.jpg"
+image: "img/h.jpg"
 date:   2018-02-27 12:12:12
 ---
 Like it or not, there is a lot of data that get's generated throughout software development lifecycles. The metrics that an agile team chooses to use should help them shed some light on what might be happening, it can be an interesting way for a team to learn more about their systems and performance, and it forms part of an important aspect of experimentation.
