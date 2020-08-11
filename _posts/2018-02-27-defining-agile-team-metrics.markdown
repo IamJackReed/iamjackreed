@@ -58,15 +58,7 @@ Generally speaking there will be a whole list of different systems that are used
 
 Data from each of these systems, on their own can answer simple questions around specific outputs.
 
-![](/img/team-system-data-collection.png)
-
-<img src="/img/team-system-data-collection.png">
-
-<img src="/mod/img/team-system-data-collection.png">
-
-[iamjackreed]/[mod]/img/team-system-data-collection.png
-
-![](https://iamjackreed.github.io/mod/img/team-system-data-collection.png)
+<img src="/mod/img/team-system-data-collection.png" width="100%" height="100%">
 
 #### Questions Based On Outcomes:
 - Are we making our process better?
@@ -76,7 +68,7 @@ Data from each of these systems, on their own can answer simple questions around
 
 As a whole, having all these systems and the data they produce forms the team's system data collection. Having this collection of data allows the team to group together certain data group samples, enabling them to then have conversations around some of the bigger types of questions that are based on outcomes, rather than just outputs.
 
-![](/img/team-system-data-collection-questions.png)
+<img src="/mod/img/team-system-data-collection-questions.png" width="100%" height="100%">
 
 #### Effective Metrics
 Defining effective and useful metrics can be tricky, and what metrics that might be useful for a team might not necessarily always stay useful overtime. Here are a few important aspects that are probably worth considering when it comes to choosing and defining a metric.
