@@ -3,7 +3,7 @@ title:  "Facilitation Isn't Easy"
 subtitle: "Ability to effectively facilitate groups of individuals"
 author: "Jack Reed"
 avatar: "img/author.png"
-image: "img/hh.jpg"
+image: "img/h.jpg"
 date:   2018-05-11 12:12:12
 ---
 The ability to effectively facilitate groups of individuals that are all fully engaged for making decisions collaboratively, is commonly recognised as being a fundamental skill for any Scrum Master and is a key element to the success of building a functional, high performing Scrum team - _Why is facilitation considered to be so important for a Scrum Master?_ _What are some of the challenges found in facilitating?_ _What might help with these challenges?_ These are some of the questions that I’ll be exploring. There are many parts to facilitation so I’ll cover parts that I think are worth mentioning. If you’re after more information about the topic of facilitation, then there are links at the bottom that will hopefully, be as useful to you as they have been for me.
